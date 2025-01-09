@@ -1,0 +1,29 @@
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.exe
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.deps.json
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.runtimeconfig.json
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.dll
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.pdb
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfoInputs.cache
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfo.cs
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.dll
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\refint\ExaminationSystem.dll
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.pdb
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.genruntimeconfig.cache
+D:\github\ExaminationSystem\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ref\ExaminationSystem.dll
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.exe
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.deps.json
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.runtimeconfig.json
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.dll
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\bin\Debug\net8.0\ExaminationSystem.pdb
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.sourcelink.json
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.dll
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\refint\ExaminationSystem.dll
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.pdb
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\alpha copy\Downloads\github\ExaminationSystem\ExaminationSystem\obj\Debug\net8.0\ref\ExaminationSystem.dll

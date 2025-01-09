@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\alpha copy\\downloads\\github\\examinationsystem\\examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\alpha copy\\downloads\\github\\examinationsystem\\examinationsystem\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\alpha copy\\downloads\\github\\examinationsystem\\examinationsystem\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\alpha copy\\downloads\\github\\examinationsystem\\examinationsystem\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\alpha copy\\downloads\\github\\examinationsystem\\examinationsystem\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\alpha copy\\downloads\\github\\examinationsystem\\examinationsystem\\trueorfaulsquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\trueorfaulsquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\alpha copy\\downloads\\github\\examinationsystem\\examinationsystem\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\alpha copy\\downloads\\github\\examinationsystem\\examinationsystem\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\alpha copy\\downloads\\github\\examinationsystem\\examinationsystem\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFD1F81-1C8C-4646-BE45-AF3AC16CD891}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 309,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\Subject.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Subject.cs",
+              "ToolTip": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\Subject.cs",
+              "RelativeToolTip": "ExaminationSystem\\Subject.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:48:36.326Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\FinalExam.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\FinalExam.cs",
+              "ToolTip": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\FinalExam.cs",
+              "RelativeToolTip": "ExaminationSystem\\FinalExam.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wEQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:45:20.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PracticalExam.cs",
+              "DocumentMoniker": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\PracticalExam.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\PracticalExam.cs",
+              "ToolTip": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\PracticalExam.cs",
+              "RelativeToolTip": "ExaminationSystem\\PracticalExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:44:25.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrueOrFaulsQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\TrueOrFaulsQuestion.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\TrueOrFaulsQuestion.cs",
+              "ToolTip": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\TrueOrFaulsQuestion.cs",
+              "RelativeToolTip": "ExaminationSystem\\TrueOrFaulsQuestion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:11:37.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "McqQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\McqQuestion.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\McqQuestion.cs",
+              "ToolTip": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\McqQuestion.cs",
+              "RelativeToolTip": "ExaminationSystem\\McqQuestion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:10:17.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\Answer.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Answer.cs",
+              "ToolTip": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\Answer.cs",
+              "RelativeToolTip": "ExaminationSystem\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:50:17.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\Program.cs",
+              "RelativeToolTip": "ExaminationSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:46:37.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\Questions.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Questions.cs",
+              "ToolTip": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\Questions.cs",
+              "RelativeToolTip": "ExaminationSystem\\Questions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:59:51.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 309,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\Exam.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Exam.cs",
+              "ToolTip": "C:\\Users\\alpha copy\\Downloads\\github\\ExaminationSystem\\ExaminationSystem\\Exam.cs*",
+              "RelativeToolTip": "ExaminationSystem\\Exam.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:33:53.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
